@@ -1,0 +1,4 @@
+messages:
+  denied-country: "%prefix% &cBu sunucuya %country% ülkesinden giriþ izni yok.\n&7\n&7VPN/Proxy kullanýyorsanýz kapatýp tekrar deneyin."
+  lookup-failed: "%prefix% &cÜlke doðrulamasý yapýlamadý.\n&7VPN/Proxy baðlantýnýzý kapatýp tekrar deneyin."
+  staff-alert: "%prefix% &c%player% &7giriþ denemesi reddedildi. &8(&e%reason%&8) &7Ülke: &e%country% &7IP: &e%ip%"

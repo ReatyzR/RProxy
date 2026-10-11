@@ -1,0 +1,18 @@
+# RProxy | ReatyzR
+
+prefix: "&c&lRProxy &8»"
+language: "tr"
+
+allowed-countries:
+  - "TR"
+  - "GB"
+  - "US"
+
+bypass:
+  players:
+    - "ReatyzR"
+
+settings:
+  broadcast-denied-attempts: false
+  staff-permission: "rproxy.alerts"
+  lookup-timeout-ms: 3500
