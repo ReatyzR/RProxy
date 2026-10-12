@@ -1,0 +1,6 @@
+name: RProxy
+version: 1.0.0
+main: dev.reatyzr.rproxy.RProxy
+author: ReatyzR
+description: Privacy-first country access gate for Spigot 1.8.9
+api-version: 1.8

@@ -1,0 +1,4 @@
+messages:
+  denied-country: "%prefix% &cAccess from %country% is not allowed on this server.\n\n&7If you are using a VPN/Proxy, disable it and try again."
+  lookup-failed: "%prefix% &cCountry verification failed.\n&7Disable your VPN/Proxy and try again later."
+  staff-alert: "%prefix% &c%player% &7was denied. &8(&e%reason%&8) &7Country: &e%country% &7IP: &e%ip%"
